@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 0
+    },
+    {
+      "tno": "101",
+      "name": "nikita sarode",
+      "place": "mahabaleswar",
+      "id": 1
+    },
+    {
+      "tno": "102",
+      "name": "Anita sarode",
+      "place": "kedarnatha",
+      "id": 2
+    }
+  ]
+}
